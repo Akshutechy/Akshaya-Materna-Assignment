@@ -10,7 +10,6 @@ Automated following scenarios of the task to use the Base class and to use the W
 - TestNg
 - Maven
 - Extent Report
-- Webdriver Manager
 
 Following are the topics covered in this framework
 - Maven Folder Structure
@@ -22,7 +21,7 @@ Following are the topics covered in this framework
 - Chaining in Page Object Model
 - Handling Enums
 - Factory Class(DriverFactory, ExplicitWaitFactory)
-- Extent Report - 5.0 Integration
+- Extent Report
 - Extent Logger
 - Cross Browser testing
 - Exception Handling
@@ -36,7 +35,7 @@ Following are the topics covered in this framework
 ## Running Test Locally
 
 - Right-click on the testng.xml file and click on "...\testng.xml" button
-- It will execute all the test mentioned in the xml in parallel mode with 2 browser instances
+- It will execute the test mentioned in the xml
 - Once the test completes it will automatically open the Extent Report in the default browser
 ![Extent_Report](https://github.com/user-attachments/assets/7b98bd87-3f00-4d8c-96bf-2b9eff865595)
 
