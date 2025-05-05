@@ -38,7 +38,8 @@ Following are the topics covered in this framework
 - Right-click on the testng.xml file and click on "...\testng.xml" button
 - It will execute all the test mentioned in the xml in parallel mode with 2 browser instances
 - Once the test completes it will automatically open the Extent Report in the default browser
-![Extent_Report](https://github.com/user-attachments/assets/ddac2568-980e-48de-bbda-193a2dca45f1)
+![Extent_Report](https://github.com/user-attachments/assets/7b98bd87-3f00-4d8c-96bf-2b9eff865595)
+
 
 
 ## Configuring properties
